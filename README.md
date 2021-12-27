@@ -98,6 +98,6 @@ TaskList
                   
 ```
 ## Thank you
-Thank you for being a great lecture sir!
-This project is not much, we hope you like it!
+Thank you for being a great lecture sir!<br>
+This project is not much, we hope you like it!<br>
 Happy new year sir!
