@@ -24,16 +24,16 @@ This is a simple to do list app for Wireless and Mobile Programming final projec
 ### User Manual
 
 <p>Here is the screen shot of our Project. For the first time you download our app, it will show a "hi" Message with zero ToDo.</p>
-<img src="https://user-images.githubusercontent.com/87258755/148684522-0d38d8af-8aea-451d-9a83-d8bb8931fabc.jpeg" height="400px"/>
+<img src="https://user-images.githubusercontent.com/93474234/148685870-c355cca6-6a90-4a1c-9ecc-ac30187d5864.jpeg" height="400px"/>
 
-<p>If you want to add a ToDo, please press the red plus button on the bottom of the screen. After you press that button, it will direct you to a new activity where you could add your ToDo. Notice that there are three type of color in this section. Red means urgent matter, Yellow means main task, and Greed means Side Task. You could also set the time up to your liking</p>
+<p>If you want to add a ToDo, please press the red plus button on the bottom of the screen. After you press that button, it will direct you to a new activity where you could add your ToDo. Notice that there are three type of color in this section. Red means urgent matter, Yellow means main task, and Greed means Side Task.</p>
 <img src="https://user-images.githubusercontent.com/93474234/148683994-41b85d88-494f-43a6-9285-3962690bae59.jpeg" height="400px"/>
 
-<p>After you have add your ToDo, the ToDo will be displayed in the frist activity that was shown when you open the app for the first time. The todo will show the title and the time it should be done.</p>
-<img src="https://user-images.githubusercontent.com/87258755/148685357-1494209b-fe8e-418c-a377-d8803aed7f29.jpeg" height="400px"/>
+<p>After you have add your ToDo, the ToDo will be displayed in the frist activity that was shown when you open the app for the first time.</p>
+<img src="https://user-images.githubusercontent.com/93474234/148683909-5abc0c3d-7e04-4c8b-88c5-893557ec013e.jpeg" height="400px"/>
 
 <p>If you want to edit your ToDo or you want to delete the ToDo, long press one of the ToDo and there will be a pop up regarding of the things that you want to do (Delete or Edit).</p>
-<img src="https://user-images.githubusercontent.com/87258755/147504096-100f17a4-0333-4592-bbc8-a2f1d810cbad.png" height="400px"/>
+<img src="https://user-images.githubusercontent.com/93474234/148685902-4592c82e-5402-4823-9d20-1719b5d4aee8.jpeg" height="400px"/>
 
 
 ## Features
