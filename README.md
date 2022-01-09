@@ -24,7 +24,7 @@ This is a simple to do list app for Wireless and Mobile Programming final projec
 ### User Manual
 
 <p>Here is the screen shot of our Project. For the first time you download our app, it will show a "hi" Message with zero ToDo.</p>
-<img src="https://user-images.githubusercontent.com/87258755/147503491-a2c92f1b-4762-4324-aebb-49de9b7ebe6b.png" height="400px"/>
+<img src="https://user-images.githubusercontent.com/93474234/148683909-5abc0c3d-7e04-4c8b-88c5-893557ec013e.jpeg" height="400px"/>
 
 <p>If you want to add a ToDo, please press the red plus button on the bottom of the screen. After you press that button, it will direct you to a new activity where you could add your ToDo. Notice that there are three type of color in this section. Red means urgent matter, Yellow means main task, and Greed means Side Task.</p>
 <img src="https://user-images.githubusercontent.com/87258755/147503976-85391b49-7171-44e6-b2de-5bdde476468a.png" height="400px"/>
